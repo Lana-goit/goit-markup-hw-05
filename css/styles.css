@@ -496,7 +496,22 @@ margin-bottom: 8px;
       background-color: #31d0aa;
     }
    
+    /* .team-menu-icon {
+      fill: #f4f4fd;
+      display: flex;
+      width: 16px;
+      height: 16px;
+  }
   
+  .container-icon-item {
+      width: 40px;
+      height: 40px;
+      margin-bottom: 8px;
+  }
+  
+  
+  .footer-title {}
+   */
     
     .footer-subscribe{
       display: flex;
@@ -595,7 +610,7 @@ margin-bottom: 8px;
   visibility: visible;
   pointer-events: auto;
 }
-/* .modal {
+.modal {
   position: absolute;
   width: 408px;
   min-height: 584px;
@@ -609,7 +624,7 @@ margin-bottom: 8px;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14),
       0px 1px 3px rgba(0, 0, 0, 0.12),
       0px 2px 1px rgba(0, 0, 0, 0.2);
-} */
+}
 
 
 .modal-btn{
