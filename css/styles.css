@@ -608,7 +608,7 @@ margin-bottom: 8px;
 .is-open{
   opacity: 1;
   visibility: visible;
-  pointer-events: auto;
+  pointer-events: all;
 }
 .modal {
   position: absolute;
@@ -653,7 +653,7 @@ margin-bottom: 8px;
 }
 
 .modal-svg{
-  transition: fill 250mc cubic-bezier(0.4, 0, 0.2, 1);
+  transition:fill 250mc cubic-bezier(0.4, 0, 0.2, 1);
 }
 .modal-btn:hover>.modal-svg,
 .modal-btn:focus>.modal-svg {
