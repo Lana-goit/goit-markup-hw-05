@@ -495,7 +495,8 @@ margin-bottom: 8px;
     .footer-link:focus {
       background-color: #31d0aa;
     }
-    .footer-title {}
+   
+  
     
     .footer-subscribe{
       display: flex;
@@ -651,7 +652,6 @@ margin-bottom: 8px;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    padding-top: 72px;
     margin-bottom: 16px;
 }
 .modal-form {}
